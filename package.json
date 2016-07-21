@@ -4,7 +4,8 @@
   "description": "",
   "main": "argv.js",
   "dependencies": {
-    "learnyounode": "^3.5.3"
+    "learnyounode": "^3.5.3",
+    "moment": "^2.14.1"
   },
   "devDependencies": {
     "eslint": "^3.1.1",
