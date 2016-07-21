@@ -1,0 +1,28 @@
+{
+  "name": "learnyounode-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "argv.js",
+  "dependencies": {
+    "learnyounode": "^3.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-airbnb-base": "^4.0.2",
+    "eslint-plugin-import": "^1.11.1"
+  },
+  "eslintConfig": {
+    "extends": "airbnb-base"
+  },
+  "scripts": {
+    "start": "learnyounode",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Windstalker/learnyounode-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
